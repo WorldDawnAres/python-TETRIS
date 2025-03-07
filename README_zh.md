@@ -1,6 +1,6 @@
 # 目录
 
-**Read this in other languages: [English](README.md), [中文](README_zh.md).**
+**[English](README.md) | [简体中文](README_zh.md)**
 
 - [目录](#目录)
   - [下载地址](#下载地址)
